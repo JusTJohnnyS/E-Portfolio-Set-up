@@ -36,7 +36,8 @@ li{
     flex:1;
 }
 
-.row{
+.row
+{
     width: 100%;
     max-width:800px;
     margin:0 auto;
@@ -172,5 +173,8 @@ Landing PG
 Tech Stack
 */
 
+.language-list{
+    display: flex;
+}
 
 
